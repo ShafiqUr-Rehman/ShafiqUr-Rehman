@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafiq Ur Rehman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align = "right" widht = "300" alt = "coding" src = "https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif" >
+<h3 align="center">A passionate MERN developer from Pakistan</h3>
+<img align = "right" widht = "200" alt = "coding" src = "https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiq-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="shafiq-ur-rehman" /> </p>
 
