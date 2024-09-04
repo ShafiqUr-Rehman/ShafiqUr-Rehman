@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiq-ur-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="shafiq-ur-rehman" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **JS,React,C\C++**
+- 💬 Ask me about **JS,React,C\C++,Node,MongoDB,EXpress,typeScript**
 
 - 📫 How to reach me **https://shafiqur-rehman.github.io/My-Portfolio/**
 
