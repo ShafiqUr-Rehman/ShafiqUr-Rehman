@@ -14,6 +14,7 @@
 - 📫 How to reach me **https://shafiqur-rehman.github.io/My-Portfolio/**
 
 - 📄 Know about my experiences [https://shafiqur-rehman.github.io/My-Portfolio/](https://shafiqur-rehman.github.io/My-Portfolio/)
+⚡ Fun fact *I love to code*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
